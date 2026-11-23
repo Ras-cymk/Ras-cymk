@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Russ Brian B. Vestil
 
-<!--
-**Ras-cymk/Ras-cymk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="Vestil.jpeg" width="150" alt="Russ Brian B. Vestil">
 
-Here are some ideas to get you started:
+## About Me
+I am Russ Brian B. Vestil, with a flair for [your strengths]. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the [your program].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+**[Your program]**
+New Era University
+[Year] - Present
+
+## Certifications
+- [Certification name 1](LINK-HERE)
+- [Certification name 2](LINK-HERE)
+
+## Skill Sets
+- **Programming:** [languages]
+- **Databases:** [databases]
+- **Tools:** [tools]
+
+## Contact Me
+- LinkedIn: [Your LinkedIn](LINK-HERE)
+- Email: your-personal-email@gmail.com
