@@ -3,7 +3,7 @@
 <img src="Vestil.jpg" width="150" alt="Russ Brian B. Vestil">
 
 ## About Me
-I am Russ Brian B. Vestil, with a flair for [your strengths]. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the [your program].
+I am Russ Brian B. Vestil, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ## Education
 Bachelor of Science in Information Technology
