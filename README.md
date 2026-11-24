@@ -8,6 +8,7 @@ I am Russ Brian B. Vestil, with a flair for [your strengths]. I thrive on tackli
 ## Education
 Bachelor of Science in Information Technology 
 New Era University
+``
 2025 - Present
 
 ## Certifications
