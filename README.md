@@ -6,9 +6,10 @@
 I am Russ Brian B. Vestil, with a flair for [your strengths]. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the [your program].
 
 ## Education
-Bachelor of Science in Information Technology 
+Bachelor of Science in Information Technology
+
 New Era University
-``
+
 2025 - Present
 
 ## Certifications
